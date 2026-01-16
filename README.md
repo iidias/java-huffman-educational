@@ -1,6 +1,6 @@
 # 📚 Projeto Estrutura de Dados - Visualizador do Algoritmo de Huffman
 
-Projeto desenvolvido em **Java** para a disciplina de **Estrutura de Dados**, com o objetivo de simular e visualizar o funcionamento lógico do Algoritmo de Huffman, um dos métodos mais eficientes de compressão de dados sem perda.
+Atividade desenvolvido em **Java** para a disciplina de **Estrutura de Dados I**, com o objetivo de simular e visualizar o funcionamento lógico do Algoritmo de Huffman, um dos métodos mais eficientes de compressão de dados sem perda.
 
 Diferente de compressores comuns, esta aplicação foca na **didática da estrutura**, exibindo o passo a passo da construção da árvore binária e a geração dos códigos.
 
